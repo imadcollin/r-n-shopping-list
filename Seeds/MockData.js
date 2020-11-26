@@ -1,17 +1,17 @@
 export const itemList = [
   {
     id: 1,
-    name: 'item 1 ',
+    name: 'Item-A',
     price: 30,
   },
   {
     id: 2,
-    name: 'item 3 ',
+    name: 'Item-B',
     price: 50,
   },
   {
     id: 3,
-    name: 'item 3 ',
+    name: 'Item-C',
     price: 60,
   },
 ];
